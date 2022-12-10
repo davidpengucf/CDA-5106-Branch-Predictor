@@ -1,4 +1,4 @@
-# CDA-5106-Branch-Predictor
+# CDA5106-Branch-Predictor
 
 ## Course project for CDA 5106 Advanced Computer Architecture at University of Central Florida. This repo is for the simulation of branch predictor.
 
